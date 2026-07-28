@@ -31,4 +31,4 @@ function getReversedString(str) {
 }
 
 const result = getReversedString('Princes Leonor');
-console.log(result);
+console.log(result);  
