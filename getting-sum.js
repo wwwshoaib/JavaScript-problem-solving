@@ -1,4 +1,4 @@
-//Write a program to calculate the sum of the numbers from 1 to 7.
+//Write a program to calculate the sum of the numbers of natural numbers 1+2+3+.....
 
 
 function gettingSumofSeries(num) {
